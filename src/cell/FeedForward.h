@@ -8,7 +8,7 @@ class FeedForward : public Cell {
 		FeedForward();
 		~FeedForward();
 	
-	private:
+	protected:
 		int temp;
 }
 
