@@ -4,7 +4,9 @@
 class Cell {
 	public:
 		Cell();
-		~Cell();
+		virtual ~Cell();
+	
+		void get_dim();
     
     		// need to define common fucntion
 	
