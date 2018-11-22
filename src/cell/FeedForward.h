@@ -1,7 +1,15 @@
 #ifndef FEED_FORWARD_H
 #define FEED_FORWARD_H
 
-classFeedForward {
+#include "Cell.h"
+
+class FeedForward : public Cell {
+	public:
+		FeedForward();
+		~FeedForward();
+	
+	private:
+		int	temp;
 }
 
 #endif
