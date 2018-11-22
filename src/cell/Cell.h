@@ -6,13 +6,13 @@ class Cell {
 		Cell();
 		~Cell();
     
-    // need to define common fucntion
+    	// need to define common fucntion
 	
 	private:
-		int	n;
-    int m,
+		int	n; // colums
+    	int m; // rows 
     
-    // need to define a matrix
+    	// need to define a matrix and other common vars
     
 }
 
