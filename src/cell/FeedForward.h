@@ -9,7 +9,7 @@ class FeedForward : public Cell {
 		~FeedForward();
 	
 	private:
-		int	temp;
+		int temp;
 }
 
 #endif
