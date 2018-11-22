@@ -8,7 +8,7 @@ class Cell {
     
     		// need to define common fucntion
 	
-	private:
+	protected:
 		int n; // colums
     		int m; // rows 
     
