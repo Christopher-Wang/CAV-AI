@@ -9,10 +9,10 @@ class Cell {
     		// need to define common fucntion
 	
 	private:
-		int	n; // colums
-    	int m; // rows 
+		int n; // colums
+    		int m; // rows 
     
-    	// need to define a matrix and other common vars
+    		// need to define a matrix and other common vars
     
 }
 
