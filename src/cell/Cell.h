@@ -6,7 +6,7 @@ class Cell {
 		Cell();
 		~Cell();
     
-    	// need to define common fucntion
+    		// need to define common fucntion
 	
 	private:
 		int	n; // colums
