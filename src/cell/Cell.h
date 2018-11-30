@@ -7,6 +7,7 @@ class Cell {
 		virtual ~Cell();
 	
 		void get_dim();
+		virtual void step() = 0;
     
     		// need to define common fucntion
 	
