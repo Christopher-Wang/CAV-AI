@@ -15,7 +15,7 @@ class Cell {
 	
 	protected:
 		int n; // colums
-    	int m; // rows
+    		int m; // rows
 	
 		Matrix weight;
 		Matrix bias;
